@@ -28,7 +28,7 @@ This assignment code includes a simple **Makefile** to compile and manage the Pr
 
   * The observed symptom (e.g., deadlock, data loss, premature termination, etc.)
   * The root cause (technical explanation)
-  * The debugging approach used (e.g., adding logs, using tools like `valgrind`, `gdb`, or thread sanitizer)
+  * The debugging approach used (You may add your own instrumentation to enable profiling.)
   * The implemented fix
 * **Progressive Versioning:**
 
