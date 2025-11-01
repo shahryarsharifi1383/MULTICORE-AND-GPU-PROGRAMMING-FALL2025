@@ -1,5 +1,8 @@
 # GPU Programming - Fall 2025
-This repository hosts **teaching assistant (TA) materials for the GPU Programming course** taught by [Prof. F. Khunjush](https://fkhunjush.github.io/website/). The material includes **documentation, homeworks, examples, and other supporting resources**. It is designed specifically to support his course and help students learn parallel programming on GPUs.
+This repository hosts **teaching assistant (TA) materials for the GPU Programming course** taught by [Prof. F. Khunjush](https://fkhunjush.github.io/website/). The material includes **documentation, homeworks, examples, and other supporting resources**. It is designed specifically to support his course and help students learn parallel programming on GPUs. 
+
+For full access to the course content — including lecture slides, recorded sessions, and additional references — please visit the link below:
+* [Course Materials on Google Drive](https://drive.google.com/drive/folders/1rLEXfdj8zTLMHSQqQt8H3R8nxS9vidr7)
 
 
 ## Repository Structure
