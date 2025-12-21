@@ -2,6 +2,8 @@
 **Due Date:** December 18, 2025 
 
 This homework contains **three separate CUDA problems**. Below is a simplified summary of what each task requires.
+You can upload your assignment using the following link: [Upload Form](https://forms.gle/wG5T4aYP3M4xCCPv6)
+
 
 
 
